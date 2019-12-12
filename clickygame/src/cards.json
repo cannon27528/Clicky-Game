@@ -1,31 +1,31 @@
 [{
     "name": "Walter White",
-    "photo": "img.src = '
+    "photo": "img.src = '../images/BB-S4-Walt-400.jpg'"
 }
  ,
  {
      "name": "Jesse Pinkman",
-     "photo": "img.src =
+     "photo": "img.src = '../images/if-jesse-pinkman-quotes-from-breaking-bad-were-mo-2-1714-1421076-227072.jpg"
 },
  {
      "name": "Hank Schrader",
-     "photo": "img.src =
+     "photo": "img.src = '../images/220px-Hank_Schrader2.jpg'"
  },
  {
      "name": "Gus Fring",
-     "photo": "img.src =
+     "photo": "img.src = '../images/cast_bb_800x600_gustavo-fring.jpg'"
  },
  {
      "name": "Mike Ehrmantraut",
-     "photo": "img.src =
+     "photo": "img.src = '../images/Jonathan-Banks-Mike-QA-1200x707.jpg'"
  },
  {
      "name": "Saul Goodman",
-     "photo": "img.src =
+     "photo": "img.src = '../images/cast_bb_800x600_saul-goodman.jpg'"
  },
  {
      "name": "Huell",
-     "photo": "img.src = ,
+     "photo": "img.src = '../images/images.jpeg'" 
  }
 
 ]
