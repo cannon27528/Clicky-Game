@@ -1,0 +1,31 @@
+[{
+    "name": "Walter White",
+    "photo": "img.src = '
+}
+ ,
+ {
+     "name": "Jesse Pinkman",
+     "photo": "img.src =
+},
+ {
+     "name": "Hank Schrader",
+     "photo": "img.src =
+ },
+ {
+     "name": "Gus Fring",
+     "photo": "img.src =
+ },
+ {
+     "name": "Mike Ehrmantraut",
+     "photo": "img.src =
+ },
+ {
+     "name": "Saul Goodman",
+     "photo": "img.src =
+ },
+ {
+     "name": "Huell",
+     "photo": "img.src = ,
+ }
+
+]
